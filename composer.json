@@ -1,7 +1,10 @@
 {
     "name": "joejophi/php-image-captcha",
     "description": "Simple & Secure PHP Image Captcha",
-    "version": "1.0",
+    "keywords": [
+        "Captcha",
+        "Image Captcha"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,5 +18,8 @@
             "email": "joejophi@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {},
+    "minimum-stability" : "stable",
+    "prefer-stable": true
 }
