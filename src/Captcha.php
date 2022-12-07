@@ -100,6 +100,7 @@ class Captcha
 
         header("Content-type: image/png");
         imagepng($captcha);
+        die();
     }
 
     /**
